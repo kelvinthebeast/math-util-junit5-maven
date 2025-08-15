@@ -10,8 +10,6 @@ import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.MethodSource;
 
 import static com.nhanthanhle.matutil.core.MathUtil.*;
-import org.junit.jupiter.*;
-
 /// Data driven testing, test data ra khỏi câu lệnh kiểm thử, tham số hóa data này
 // vào trong câu lệnh kiểm thử
 public class MathUtilTest {
