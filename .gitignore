@@ -1,0 +1,28 @@
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Logs
+*.log
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build output
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven local settings (nếu bạn có custom)
+.mvn/
+.settings/
+
+# Temporary files
+*~ 
